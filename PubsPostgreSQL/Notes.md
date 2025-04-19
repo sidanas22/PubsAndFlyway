@@ -1,0 +1,1 @@
+flyway migrate "-user=$env:flyway_user" "-password=$env:flyway_password"
